@@ -1,7 +1,6 @@
 import Hero from "../Components/Hero";
 import ContentLeft from '../Components/ContentLeft';
 import ContentRight from '../Components/ContentRight';
-import SectionOne from '../Components/SectionOne';
 import About from '../Components/About';
 import FAQ from '../Components/FAQ';
 
