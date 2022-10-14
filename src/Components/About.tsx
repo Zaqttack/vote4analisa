@@ -29,7 +29,12 @@ const About = () => {
                     />
                     <GridCard 
                         title='Favorite Things'
-                        content='I have lived in San Antonio my whole life and serve the world as a macron savant. '
+                        content={`
+                        - Cloudy with a chance of meatball is the BEST cartoon EVER. Fight me....Respectfully.... You got Flint, a mission, and, meatballs, what more could you want?
+                        - Weiner dogs in hot dog costumes... 🐕
+                        - Learning fun facts about people
+                        - That sound the band makes when they're warming up for a concert... It is a beautiful chaos.
+                        `}
                         imageTitle='favorites'
                     />
                 </Grid>
