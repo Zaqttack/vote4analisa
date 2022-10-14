@@ -1,4 +1,4 @@
-import { Text, Container, Image, MediaQuery, Button } from '@mantine/core';
+import { Text, Container, MediaQuery, Button } from '@mantine/core';
 import { MdOutlineArrowDownward } from "react-icons/md";
 import { Link } from 'react-scroll';
 

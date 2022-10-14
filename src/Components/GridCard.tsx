@@ -1,4 +1,4 @@
-import { useMantineTheme, Text, Grid, Card, Image, Badge, Button, Group } from '@mantine/core';
+import { useMantineTheme, Text, Grid, Card, Image, Button, Group } from '@mantine/core';
 
 interface GridCardProps {
     imageTitle?: string,

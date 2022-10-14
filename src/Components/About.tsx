@@ -1,8 +1,8 @@
-import { useMantineTheme, Container, Text, Title, Grid, Card, Image, Badge, Button, Group } from '@mantine/core';
+import { Container, Text, Title, Grid } from '@mantine/core';
 import GridCard from './GridCard';
 
 const About = () => {
-    const theme = useMantineTheme();
+    // const theme = useMantineTheme();
 
     return (
         <section id="section-four">

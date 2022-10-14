@@ -39,7 +39,3 @@ const ContentLeft = ({title, text, buttonUse=false, buttonText, imageTitle='team
 };
 
 export default ContentLeft;
-
-const redirectToLink = (link: string): void => {
-    window.open(link, '_blank');
-};
