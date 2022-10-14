@@ -1,0 +1,53 @@
+#hero {
+    min-height: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    padding-top: 0px;
+
+    .hero-content {
+        text-align: center;
+        background-color: rgba(#f76707, 0.60);
+        background-image: url('../Images/analisa-headshot-fountain-solo.png');
+        background-repeat: no-repeat;
+        padding: 160px 120px;
+        border-radius: 25px;
+        margin-top: 12px;
+        
+        .title {
+            font-family: 'Montserrat', sans-serif;
+            color: white; //rgb(45, 45, 45);
+            font-size: 6vmin;
+            letter-spacing: 2px;
+            font-weight: 00;
+            margin-top: 0px;
+        }
+
+        .buttons {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        a { color: #1864ab; }
+
+        @media only screen and (max-width: 1086px) {
+            padding: 110px 120px;
+        }
+
+        @media only screen and (max-width: 768px) {
+            padding: 120px 40px;
+        }
+
+        @media only screen and (max-width: 350px) {
+            padding: 80px 20px;
+        }
+    }
+
+    @media only screen and (max-width: 425px) {
+        .mantine-Container-root {
+            padding: 0px;
+        }
+    }
+}

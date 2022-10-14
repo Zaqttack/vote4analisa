@@ -1,0 +1,13 @@
+.FAQ-question[data-active="true"],
+.FAQ-question[data-active="true"] .FAQ-text {
+    color: black !important;
+}
+
+.FAQ-text {
+    color: white;
+}
+
+.FAQ-text:hover {
+    color: white;
+    background-color: orange;
+}
