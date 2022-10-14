@@ -2,13 +2,12 @@ import { Container, Text, Title, Grid } from '@mantine/core';
 import GridCard from './GridCard';
 
 const About = () => {
-    // const theme = useMantineTheme();
 
     return (
         <section id="section-four">
             <Container>
                 <Text color="white" align="center">
-                    <Title order={1} mb="30px">About me!</Title>
+                    <Title order={1} mb="30px">About Me!</Title>
                 </Text>
 
                 <Grid>
@@ -21,8 +20,8 @@ const About = () => {
                         title='Experience'
                         content={`
                         - Lead as a Science Mentor through the College of Sciences
-                        - Director of Professional Development in the College of Sciences Dena Student Board
-                        - Director of the Association for Computing and Machinery’s sub-organization Rowdy Creators
+                        - Director of Professional Development in the College of Sciences Dean's Student Board
+                        - Director of the Association for Computing and Machinery's sub-organization Rowdy Creators
                         - Serve with the Catholic Student Associations Music Ministry.
                         `}
                         imageTitle='abstract-platform'

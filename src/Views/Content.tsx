@@ -10,7 +10,7 @@ const Content = () => {
             <Hero />
             <ContentLeft 
                 title='UTSA’s Breakfast with the Boss'
-                text='My platform, this would be a campus wide event for students to connect with local bosses from all disciplines to learn about life after college. This even encourages upholding the “Supporting the fearless exploration of dreams and ideas in the advance of ingenuity, creativity, and discovery,” part of the Roadrunner Creed. Students would have the opportunity to share a quick meal with the bosses and learn how to be successful after leaving college. This event would promote the exploration of opportunities and inspire students to discover a path that encourages them to be fearless and creative.'
+                text='My platform, this would be a campus wide event for students to connect with local bosses from all disciplines to learn about life after college. This event encourages upholding the “Supporting the fearless exploration of dreams and ideas in the advance of ingenuity, creativity, and discovery,” part of the Roadrunner Creed. Students would have the opportunity to share a quick meal with the bosses and learn how to be successful after leaving college. This event would promote the exploration of opportunities and inspire students to discover a path that encourages them to be fearless and creative.'
                 imageTitle='abstract-platform'
             />
             <ContentRight 
