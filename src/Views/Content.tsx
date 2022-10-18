@@ -18,8 +18,8 @@ const Content = () => {
                 text={'Voting starts October 18th and ends on October 20th. UTSA Students can sign into RowdyLink and cast their vote there!'} 
                 imageTitle='election-day'
                 buttonUse={true}
-                buttonText='Get Notified'
-                buttonLink='https://docs.google.com/forms/u/0/d/1gcbQVV4Rwr4xBxy4T24PAWFgnkKbLXCUYPJp9M2uTS0/viewform'
+                buttonText='Vote Now!'
+                buttonLink='https://rowdylink.utsa.edu/submitter/election/start/559036'
             />
             <About />
             <FAQ />

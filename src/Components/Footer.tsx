@@ -17,7 +17,7 @@ const Footer = () => {
                             Running for <i>your</i> 2023 Spirit of the Roadrunner!
                         </Text>
 
-                        <Button variant="white" color="black" onClick={() => redirectToLink('https://docs.google.com/forms/u/0/d/1gcbQVV4Rwr4xBxy4T24PAWFgnkKbLXCUYPJp9M2uTS0/viewform')}>Get notified when to Vote</Button>
+                        <Button variant="white" color="black" onClick={() => redirectToLink('https://rowdylink.utsa.edu/submitter/election/start/559036')}>Vote Now!</Button>
                     </Grid.Col>
 
                     <Grid.Col xs={12} sm={4} md={4} lg={4}>

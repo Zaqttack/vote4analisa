@@ -52,9 +52,9 @@ const Header = () => {
                         </div>
 
                         <div className="menu-items">
-                            <Text>Get Notified to Vote</Text>
+                            <Text>Vote Now!</Text>
 
-                            <Anchor href="https://docs.google.com/forms/u/0/d/1gcbQVV4Rwr4xBxy4T24PAWFgnkKbLXCUYPJp9M2uTS0/viewform">
+                            <Anchor href="https://rowdylink.utsa.edu/submitter/election/start/559036">
                                 Here!
                             </Anchor>
                         </div>

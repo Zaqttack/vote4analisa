@@ -44,7 +44,7 @@ const Hero = () => {
                             <Button color="orange" rightIcon={<MdOutlineArrowDownward size={16} />} radius="lg" size="md">Tell me more</Button>
                         </Link>
 
-                        <Button variant="default" radius="lg" size="md" onClick={() => redirectToLink('https://docs.google.com/forms/d/e/1FAIpQLSdmvCOJ3i1f3tIJMSeT7Uu6UhOgYdUvzKWcnxstYsQAedIWqA/viewform')}>Get Notified</Button>
+                        <Button variant="default" radius="lg" size="md" onClick={() => redirectToLink('https://rowdylink.utsa.edu/submitter/election/start/559036')}>Vote Now!</Button>
                     </div>
                 </div>
             </Container>
